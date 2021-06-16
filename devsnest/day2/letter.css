@@ -1,0 +1,30 @@
+.heading{
+  background-color: #f1f1f1;
+  padding: 20px;
+  text-align: center;
+}
+.imgg{
+  height: 100px;
+  width: 100px;
+  float:right;
+   
+}
+
+body{
+    
+    margin: 0;
+    font-family: Copperplate, Papyrus, fantasy;
+    
+    font-size: 16px;
+}
+.list{
+    list-style: none;
+}
+#ali{
+  margin-left: 40px;
+}
+#main {
+   font-weight: bolder;
+  margin-left: 40px;
+  text-align: justify;
+}
