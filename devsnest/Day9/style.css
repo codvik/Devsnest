@@ -1,0 +1,41 @@
+
+body{
+    background-color: #0099CC;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+button{
+    font-size: 100px;
+    height: 100px;
+    width: 100px;
+    padding:0%;
+    margin-right:0%;
+}
+.innerContainer{
+    margin-top: 10%;
+}
+button:hover{
+    opacity:60%;
+}
+.edt1{
+  width: 360px;
+  background-color: #CCFFCC;
+  pointer-events: none;
+}
+.edt2{
+  width: 360px;
+  background-color: #CCFFCC;
+  pointer-events: none;
+}
+
+
+.number{
+    display: flex;
+}
+h1{
+    margin-right:230px;
+}
