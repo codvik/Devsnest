@@ -1,0 +1,70 @@
+
+    body{
+          margin: 0;
+          background-color: #4d244e;
+          font-family: sans-serif;
+          border-top: 5px solid #aa8e8d;
+    }
+    #vehicle1{
+        height: 25px;
+        width: 24px;
+    }
+    input[type=checkbox]:checked + label {
+color: #6d335c;
+  text-decoration: line-through;
+} 
+    .just{
+       font-size: 30px;
+    }
+    .outsideContainer{
+        height: 100vh;
+        width: 100vw;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .icon{
+        /* background-color: red; */
+        height: 400px;
+        min-width: 400px;
+    }
+    .heading{
+        color: #aa8e8d;
+        width: 100%;
+    }
+    h1{
+        margin-left: 25%;
+    }
+    .heading:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.inpt{
+width:75%;
+padding: 6px;
+
+}
+.bttn{
+width:21%;
+padding: 6px;
+}
+
+.list{
+   
+    background: #ae5f75;
+    /* height: 30px; */
+    max-width: 400px; 
+    margin-top: 10px;
+    padding: 15px;
+    word-wrap: break-word;
+    border-radius: 5px;
+    
+}
+
+.bi.bi-archive-fill{
+width:35px; 
+height:35px;
+
+float:right
+}
